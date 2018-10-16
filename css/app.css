@@ -1,1 +1,34 @@
 /*.table-responsive { overflow-x: scroll !important; }*/
+
+.content-area .grid-x .medium-3 {
+    line-height: 0px;
+    text-align: center;
+}
+
+.content-area .grid-x .medium-3 p {
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.content-area .grid-x .medium-3 span {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.grid-x .medium-2 .button {
+    background-color: #5349C6;
+    color: white;
+}
+
+.content-area .padding-20 b {
+    font-size: 24px;
+}
+
+.nav-item .active {
+    color: #000;
+}
+
+.padding-20 .grid-y .two .field .animated {
+    background-color: #5349C6;
+    color: white;
+}
